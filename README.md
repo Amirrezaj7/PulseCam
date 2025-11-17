@@ -82,6 +82,7 @@ Slow waveform oscillations → respiratory rate
 This technique is non-medical and for wellness use only.
 
 🛠 Project Structure
+
 PulseCam/
 │
 ├── PulseCamApp.swift            # App entry point
@@ -101,6 +102,7 @@ PulseCam/
 │   └── HistoryView.swift
 │
 └── Assets.xcassets               # App icons and colors
+
 
 📦 Additional Files Included
 
